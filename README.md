@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hellooo, I'm Rishav 👋
+### Hellooo, I'm Rishav 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Distributed+Systems;Building+Scalable+Cloud-Native+AI+Applications" alt="Typing SVG" /></a>
 
@@ -58,8 +58,6 @@ An AI-powered trip planner that recommends hotels, attractions, and activities b
 ---
 
 ### 🤝 Let's Connect
-
-Feel free to reach out!
 
 <div align="center">
 
