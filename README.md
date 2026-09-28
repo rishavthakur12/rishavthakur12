@@ -13,13 +13,13 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I'm a **Software Engineer** who has spent 3 years building **distributed systems** and **cloud-native applications** with **Java**, **Python**, **microservices**, and **AWS**. Now I'm taking that foundation into **Machine Learning**, **Deep Learning**, **RAG systems**, and **LLM applications**, building with them while I keep learning.
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 - **Languages:** Java, Python, JavaScript
 - **Backend:** Microservices, REST APIs, Kafka
@@ -30,7 +30,7 @@ I'm a **Software Engineer** who has spent 3 years building **distributed systems
 
 ---
 
-## 🚀 Projects Built
+### 🚀 Projects Built
 
 ### 🛒 [Microshop](https://github.com/rishavthakur12/Microshop) — Microservices E-Commerce Backend
 
@@ -54,7 +54,7 @@ An AI-powered trip planner that recommends hotels, attractions, and activities b
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=rishavthakur12&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
@@ -62,7 +62,7 @@ An AI-powered trip planner that recommends hotels, attractions, and activities b
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 Feel free to reach out!
 
