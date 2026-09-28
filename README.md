@@ -66,53 +66,6 @@ I'm a **Software Engineer with 3+ years** of experience building **large-scale d
 
 ---
 
-## 💼 Experience
-
-### 🏛️ Software Engineer, Goldman Sachs
-*Tax Division, Bengaluru · Jan 2026 – Jun 2026*
-
-- Built a **document intelligence platform on AWS** (Textract, Lambda, ECS, SNS) with LLM vision models, processing **100+ tax documents daily** and cutting manual review from **50 mins → 5 mins** per document.
-- Designed an **IaC-provisioned CI/CD pipeline for AI-generated code** with isolated validation stages and quality gates, enabling safe adoption of **Devin across 5 teams**.
-
-### 🏦 Software Engineer, Oracle Financial Services Software
-*Oracle Banking Payments, Bengaluru · Aug 2023 – Dec 2025*
-
-- Developed **Java Spring Boot** workflows for global payment processing (validation, compliance checks, messaging), supporting **10M+ daily transactions**.
-- Owned end-to-end development of **40+ REST APIs** powering payment modules.
-- Architected an **AI knowledge assistant** using **RAG + Oracle 23ai Vector DB** for semantic search across **1,000+ PDFs/videos**, reducing query resolution time by **70%**.
-- Automated documentation for **100+ Spring REST services** with a multithreaded Java utility (`ExecutorService`), improving efficiency by **30x**.
-- Migrated a monolithic payments app into **13+ microservices**, improving resilience, scalability, and fault tolerance.
-
-### 📈 Summer Analyst, J.P. Morgan & Chase
-*FPI and DCC, Bengaluru · Jan 2022 – Jun 2022*
-
-- Built a **Python + NLP** document-processing solution to automate foreign portfolio investor verification, reducing **KYC time by 40%**.
-- Engineered a Python task-management and monitoring tool with dashboards, saving **100+ manual hours monthly**.
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 [Microshop](https://github.com/rishavthakur12/Microshop) — Microservices E-Commerce Backend
-A distributed, event-driven e-commerce backend with secure, resilient, and observable architecture.
-
-- 4 event-driven services (**Product, Order, Inventory, Notification**) communicating asynchronously via **Kafka**
-- **API Gateway** for centralized routing and **Eureka** for service discovery
-- **Keycloak** for auth, **Prometheus + Grafana** for real-time monitoring and alerting
-- Fully containerized with **Docker**
-
-`Spring Boot` `Kafka` `Docker` `Eureka` `Keycloak` `Prometheus` `Grafana`
-
-### 🧳 [Triptuner](https://github.com/rishavthakur12/Triptuner) — AI Travel Itinerary Planner
-An AI-powered trip planner that recommends hotels, attractions, and activities based on budget, duration, group size, and real-time Google reviews.
-
-- Powered by **Google Gemini** + **Google Places/Maps APIs**
-- Save and revisit past itineraries with seamless **Google Maps** navigation
-
-`Gemini` `Google Places API` `Google Maps API`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
