@@ -17,7 +17,7 @@ I'm a **Software Engineer** who has spent 3 years building **distributed systems
 ### 🛠️ Technical Skills
 
 - 💻 **Languages:** Java, Python, JavaScript
-- ⚙️ **Backend:** Microservices, REST APIs, Kafka
+- ⚙️ **Frameworks:** SpringBoot, Reactjs, Microservices, REST APIs, Kafka
 - ☁️ **Cloud & DevOps:** AWS, Oracle Cloud, Docker, Jenkins
 - 📈 **Observability:** Prometheus, Grafana
 - 🧠 **Deep Learning:** PyTorch, Keras, LSTM, Transformers
