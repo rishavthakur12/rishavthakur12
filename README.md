@@ -49,14 +49,6 @@ An AI-powered trip planner that recommends hotels, attractions, and activities b
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=rishavthakur12&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
